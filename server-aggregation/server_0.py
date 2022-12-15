@@ -1,6 +1,7 @@
 import flwr as fl
 
-server_address= "152.228.166.247:8081"
+server_address= ""
+# 152.228.xxx.247:8081
 # server_round = 3
 # epochs = 10 
 
